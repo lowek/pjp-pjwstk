@@ -1,2 +1,4 @@
-# task6_pjp-pjwstk
-PJP pjwstk
+# pjp-pjwstk
+
+
+Tasks from PJP @ PJWSTK 2019-2020
